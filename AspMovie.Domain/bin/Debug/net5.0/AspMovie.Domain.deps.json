@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AspMovie.Domain/1.0.0": {
+        "runtime": {
+          "AspMovie.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspMovie.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

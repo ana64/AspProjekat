@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspMovie.Api</name>
+    </assembly>
+    <members>
+        <member name="M:AspMovie.Api.Controllers.CastController.Post(AspMovie.Application.UseCases.Dto.CastDto,AspMovie.Application.UseCases.Commands.IAddMovieCastCommand,AspMovie.Implementation.UseCaseHandler)">
+            <summary>
+            Insert in AuthorMovie table
+            { actorid,
+            movieId,
+            Role }
+            </summary>
+        </member>
+        <member name="M:Api.Extensions.ContainerExtensions.AddJwt(Microsoft.Extensions.DependencyInjection.IServiceCollection,AspMovie.Api.Core.AppSettings)">
+            <summary>
+            Jwt Authentification
+            </summary>
+            <param name="services"></param>
+            <param name="settings"></param>
+        </member>
+        <member name="M:Api.Extensions.ContainerExtensions.AddUseCases(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            use cases - query,commands,validators
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Api.Extensions.ContainerExtensions.AddApplicationUser(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            App user - check login param
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Api.Extensions.ContainerExtensions.AddProjectDbContext(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Database connection
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

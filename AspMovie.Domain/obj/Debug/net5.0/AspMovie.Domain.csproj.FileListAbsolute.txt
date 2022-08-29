@@ -1,0 +1,12 @@
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\bin\Debug\net5.0\AspMovie.Domain.deps.json
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\bin\Debug\net5.0\AspMovie.Domain.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\bin\Debug\net5.0\AspMovie.Domain.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.AssemblyInfo.cs
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\refint\AspMovie.Domain.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\AspMovie.Domain.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Domain\obj\Debug\net5.0\ref\AspMovie.Domain.dll

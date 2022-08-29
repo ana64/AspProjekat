@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspMovie.Domain", "AspMovie.Domain", "{20470903-20D4-4A12-8EA7-CA170393C5F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspMovie.DataAccess", "AspMovie.DataAccess", "{4F161AD5-D6E2-4960-90CB-94A7B294818E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspMovie.DataAccess", "AspMovie.DataAccess\AspMovie.DataAccess.csproj", "{AA0B3B11-C579-4673-881F-F613931CD52A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspMovie.Domain", "AspMovie.Domain\AspMovie.Domain.csproj", "{062909D8-CF8C-4EFB-816A-B9563B0F595E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspMovie.Application", "AspMovie.Application", "{9084CE47-1AE6-4635-8B7D-9B34E33F0DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMovie.Application", "AspMovie.Application\AspMovie.Application.csproj", "{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspMovie.Implementation", "AspMovie.Implementation", "{F168FF98-816D-4F1F-A4C1-13ECA888936C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMovie.Implementation", "AspMovie.Implementation\AspMovie.Implementation.csproj", "{35FC584D-6D1B-4119-950D-5DF92BA33D58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspMovie.Api", "AspMovie.Api", "{4BD2EDDB-A3DD-462A-8EB7-8F6733803B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMovie.Api", "AspMovie.Api\AspMovie.Api.csproj", "{1FCC2882-09F1-49A2-853D-062CD32F8410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0B3B11-C579-4673-881F-F613931CD52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0B3B11-C579-4673-881F-F613931CD52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0B3B11-C579-4673-881F-F613931CD52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0B3B11-C579-4673-881F-F613931CD52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062909D8-CF8C-4EFB-816A-B9563B0F595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062909D8-CF8C-4EFB-816A-B9563B0F595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062909D8-CF8C-4EFB-816A-B9563B0F595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062909D8-CF8C-4EFB-816A-B9563B0F595E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FC584D-6D1B-4119-950D-5DF92BA33D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FC584D-6D1B-4119-950D-5DF92BA33D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FC584D-6D1B-4119-950D-5DF92BA33D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FC584D-6D1B-4119-950D-5DF92BA33D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCC2882-09F1-49A2-853D-062CD32F8410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCC2882-09F1-49A2-853D-062CD32F8410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCC2882-09F1-49A2-853D-062CD32F8410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCC2882-09F1-49A2-853D-062CD32F8410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA0B3B11-C579-4673-881F-F613931CD52A} = {4F161AD5-D6E2-4960-90CB-94A7B294818E}
+		{062909D8-CF8C-4EFB-816A-B9563B0F595E} = {20470903-20D4-4A12-8EA7-CA170393C5F0}
+		{0C27ACB5-EA2A-45EF-BAE4-19561EA926EC} = {9084CE47-1AE6-4635-8B7D-9B34E33F0DCD}
+		{35FC584D-6D1B-4119-950D-5DF92BA33D58} = {F168FF98-816D-4F1F-A4C1-13ECA888936C}
+		{1FCC2882-09F1-49A2-853D-062CD32F8410} = {4BD2EDDB-A3DD-462A-8EB7-8F6733803B6E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F1BCB43-A46D-436C-AF5C-8DFDC877AF2A}
+	EndGlobalSection
+EndGlobal

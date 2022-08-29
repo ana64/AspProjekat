@@ -1,0 +1,17 @@
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.Application.deps.json
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.Application.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.Application.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.DataAccess.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.Domain.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.DataAccess.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\bin\Debug\net5.0\AspMovie.Domain.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.AssemblyInfo.cs
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.csproj.CopyComplete
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\refint\AspMovie.Application.dll
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\AspMovie.Application.pdb
+C:\Users\Ana\source\repos\AspMovie\AspMovie.Application\obj\Debug\net5.0\ref\AspMovie.Application.dll
