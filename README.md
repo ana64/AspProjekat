@@ -1,3 +1,6 @@
 # AspProjekat
+##My Movie List 
 
-My Movie List Application
+An ASP.NET CORE API for movie ratings.
+
+
