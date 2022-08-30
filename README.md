@@ -18,6 +18,7 @@ An ASP.NET CORE API for movie ratings.
 
 ### /api/Crew
 | Method | Description |
+| --- | --- |
 | post| Add a movie's crew (director) and insert in pivot table |
 
 ### /api/Genre
