@@ -37,5 +37,6 @@ An ASP.NET CORE API for movie ratings.
 
 ### /api/Rating
 | Method | Description |
+| --- | --- |
 | post| Authorized user can rate a movie (he can't write a reviews yet)|
 
